@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+    <student>
+        <name>Tạ Đình Trí</name>
+        <id>S001</id>
+        <subjects>
+            <subject>
+                <subject_name>Lập trình Web</subject_name>
+                <score>10.0</score>
+            </subject>
+            <subject>
+                <subject_name>Cơ sở dữ liệu</subject_name>
+                <score>9.5</score>
+            </subject>
+        </subjects>
+    </student>
+    <student>
+        <name>Nguyễn Minh Triều</name>
+        <id>S002</id>
+        <subjects>
+            <subject>
+                <subject_name>Mạng máy tính</subject_name>
+                <score>9.0</score>
+            </subject>
+            <subject>
+                <subject_name>Cơ sở dữ liệu</subject_name>
+                <score>9.0</score>
+            </subject>
+        </subjects>
+    </student>
+    <student>
+        <name>Danh Nhật Tiến</name>
+        <id>S003</id>
+        <subjects>
+            <subject>
+                <subject_name>Lập trình Web</subject_name>
+                <score>8.0</score>
+            </subject>
+            <subject>
+                <subject_name>Toán rời rạc</subject_name>
+                <score>8.5</score>
+            </subject>
+        </subjects>
+    </student>
+</class>
