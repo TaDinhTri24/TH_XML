@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<thuvien>
+    <sach>
+        <title>Trở về tuổi thơ</title>
+        <author>Tạ Đình Trí</author>
+        <year>2022</year>
+        <genre>Truyện tranh</genre>
+    </sach>
+    <sach>
+        <title>Tiệc không gian</title>
+        <author>Trần Gia Phú</author>
+        <year>2022</year>
+        <genre>Viễn tưỡng</genre>
+    </sach>
+    <sach>
+        <title>Ngôi nhà trong khu rừng</title>
+        <author>Nguyễn Minh Triều</author>
+        <year>2019</year>
+        <genre>Kinh dị</genre>
+    </sach>
+</thuvien>

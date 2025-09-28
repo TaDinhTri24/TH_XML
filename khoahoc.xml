@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elearning xmlns:course="http://example.com/course"
+           xmlns:instructor="http://example.com/instructor"
+           xmlns:student="http://example.com/student">
+
+    <course:course id="C001" category="Lập trình">
+        <course:title>Lập trình Web</course:title>
+        <instructor:instructor id="I001">
+            <instructor:name>Tạ Đình Trí</instructor:name>
+            <instructor:email>tadinhtri@example.com</instructor:email>
+        </instructor:instructor>
+        <course:students>
+            <student:student id="S001" progress="80">
+                <student:name>Nguyễn Minh Triều</student:name>
+            </student:student>
+            <student:student id="S002" progress="50">
+                <student:name>Danh Nhật Tiến</student:name>
+            </student:student>
+        </course:students>
+    </course:course>
+
+    <course:course id="C002" category="Thiết kế">
+        <course:title>Thiết kế Web với Figma</course:title>
+        <instructor:instructor id="I002">
+            <instructor:name>Trần Gia Phú</instructor:name>
+            <instructor:email>levand@example.com</instructor:email>
+        </instructor:instructor>
+        <course:students>
+            <student:student id="S003" progress="60">
+                <student:name>Lê Minh Gia Mẫn</student:name>
+            </student:student>
+        </course:students>
+    </course:course>
+
+</elearning>
